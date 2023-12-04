@@ -7,6 +7,7 @@
 ## Check out some of my projects!
 [Jep-1/Gradebook](https://github.com/Jep-1/Gradebook)<br>
 [Jep-1/RemoteBoat](https://github.com/Jep-1/RemoteBoat)
+[Jep-1/advent_of_code](https://github.com/Jep-1/advent_of_code)
 
 <!---
 Jep-1/Jep-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
